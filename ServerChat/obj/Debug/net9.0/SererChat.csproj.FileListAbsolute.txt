@@ -1,0 +1,14 @@
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\bin\Debug\net9.0\SererChat.exe
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\bin\Debug\net9.0\SererChat.deps.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\bin\Debug\net9.0\SererChat.runtimeconfig.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\bin\Debug\net9.0\SererChat.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\bin\Debug\net9.0\SererChat.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.AssemblyInfoInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.AssemblyInfo.cs
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.csproj.CoreCompileInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\refint\SererChat.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\SererChat.genruntimeconfig.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\SererChat\obj\Debug\net9.0\ref\SererChat.dll

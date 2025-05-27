@@ -1,0 +1,14 @@
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\bin\Debug\net9.0\ServerAsync.exe
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\bin\Debug\net9.0\ServerAsync.deps.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\bin\Debug\net9.0\ServerAsync.runtimeconfig.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\bin\Debug\net9.0\ServerAsync.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\bin\Debug\net9.0\ServerAsync.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.AssemblyInfoInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.AssemblyInfo.cs
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\refint\ServerAsync.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ServerAsync.genruntimeconfig.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerAsync\obj\Debug\net9.0\ref\ServerAsync.dll
