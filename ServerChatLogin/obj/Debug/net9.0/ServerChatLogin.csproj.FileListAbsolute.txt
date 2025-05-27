@@ -1,0 +1,15 @@
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\bin\Debug\net9.0\ServerChatLogin.exe
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\bin\Debug\net9.0\ServerChatLogin.deps.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\bin\Debug\net9.0\ServerChatLogin.runtimeconfig.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\bin\Debug\net9.0\ServerChatLogin.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\bin\Debug\net9.0\ServerChatLogin.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.AssemblyInfoInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.AssemblyInfo.cs
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.csproj.CoreCompileInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.sourcelink.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\refint\ServerChatLogin.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ServerChatLogin.genruntimeconfig.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ServerChatLogin\obj\Debug\net9.0\ref\ServerChatLogin.dll

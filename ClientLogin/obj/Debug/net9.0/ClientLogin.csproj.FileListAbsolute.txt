@@ -1,0 +1,15 @@
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\bin\Debug\net9.0\ClientLogin.exe
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\bin\Debug\net9.0\ClientLogin.deps.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\bin\Debug\net9.0\ClientLogin.runtimeconfig.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\bin\Debug\net9.0\ClientLogin.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\bin\Debug\net9.0\ClientLogin.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.AssemblyInfoInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.AssemblyInfo.cs
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.csproj.CoreCompileInputs.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.sourcelink.json
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\refint\ClientLogin.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.pdb
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ClientLogin.genruntimeconfig.cache
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\ClientLogin\obj\Debug\net9.0\ref\ClientLogin.dll
