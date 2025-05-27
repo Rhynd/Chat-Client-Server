@@ -12,3 +12,4 @@ C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\Client\obj\Debug\net9.0\ref
 C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\Client\obj\Debug\net9.0\Client.pdb
 C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
 C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\Client\obj\Debug\net9.0\ref\Client.dll
+C:\Users\justr\ESTIAM\E1\Programmation\CSharp\Client\Client\obj\Debug\net9.0\Client.sourcelink.json
